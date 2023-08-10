@@ -2,7 +2,7 @@
 
 ## HTML/CSS Practice .03
 
-This project was a 'code-from-scratch' of my instagram main page made as a practice around flex, different layouts and positioning. A cool function of it is the resposivity: this layout is 100% responsive for the three main viewports: desktop, tablet and mobile; just like the real website.
+This project was a 'code-from-scratch' of my instagram main page made as a practice around flex, different layouts and positioning. A cool function of it is the resposivity: this layout is 100% responsive for the three main viewports: desktop, tablet and mobile; just like the real website. It was made with html, css and javascript.
 
 Project Mirrors/URL's: 
 * [CodeSandbox](https://dq2gtf.csb.app/)
@@ -11,12 +11,18 @@ Project Mirrors/URL's:
 
  <br>
   <h2> Desktop Layout </h2>
+  <p>Includes all the functions and layout parts like sidebar, topbar, storybox, etc. Activated with a viewport width over 960 pixels.</p>
+    <br>
   <img src="https://i.postimg.cc/bJBWtLN1/Screenshot-from-2023-08-09-20-34-27.png)](https://postimg.cc/Fd0TtySK">
   <br>
   <h2> Tablet Layout </h2>
+  <p>The same as desktop version, but without the sidebar. The main content/posts is now centralized on the screen. Activated with a viewport width between 640 and 960 pixels.</p>
+  <br>
   <img src="https://i.postimg.cc/JtwFTnXn/Screenshot-from-2023-08-09-20-34-53.png">
   <br>
   <h2> Mobile Layout </h2>
+  <p>Post is now 100% screen width, adds the mobile bar and the topbar is modified. Activated with a viewport width belo 640 pixels.</p>
+  <br>
   <img src="https://i.postimg.cc/hvQwbxf6/Screenshot-from-2023-08-09-20-35-40.png">
 
 <br>
