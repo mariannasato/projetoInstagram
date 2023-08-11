@@ -21,7 +21,7 @@ Project Mirrors/URL's:
   <img src="https://i.postimg.cc/JtwFTnXn/Screenshot-from-2023-08-09-20-34-53.png">
   <br>
   <h2> Mobile Layout </h2>
-  <p>Post is now 100% screen width, adds the mobile bar and the topbar is modified. Activated with a viewport width belo 640 pixels.</p>
+  <p>Post is now 100% screen width, adds the mobile bar and the topbar is modified. Activated with a viewport width below 640 pixels.</p>
   <br>
   <img src="https://i.postimg.cc/hvQwbxf6/Screenshot-from-2023-08-09-20-35-40.png">
 
