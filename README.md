@@ -1,4 +1,4 @@
-# 📸 - Instagram Page Project
+# Instagram Page Project
 
 ## HTML/CSS Practice .03
 
