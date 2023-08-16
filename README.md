@@ -2,9 +2,9 @@
 
 ## HTML/CSS Practice .03
 
-This project was a 'code-from-scratch' of my instagram main page made as a practice around flex, different layouts and positioning. A cool function of it is the resposivity: this layout is 100% responsive for the three main viewports: desktop, tablet and mobile; just like the real website. It was made with html and css.
+This project was a 'code-from-scratch' of my instagram main page made as a practice around flex, different layouts and positioning. A cool function of it is the resposivity: this layout is 100% responsive for the three main viewports: desktop, tablet and mobile; just like the real website. It was made with HTML and CSS.
 
-Project Mirrors/URL's: 
+### Project Mirrors/URL's: 
 * [CodeSandbox](https://dq2gtf.csb.app/)
 * [Github Pages](https://mariannasato.github.io/projetoInstagram/)
 * [Netifly](https://mariannasatoinstagram.netlify.app/)
