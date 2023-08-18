@@ -4,15 +4,11 @@
 
 This project was a 'code-from-scratch' of my instagram main page made as a practice around flex, different layouts and positioning. A cool function of it is the resposivity: this layout is 100% responsive for the three main viewports: desktop, tablet and mobile; just like the real website. It was made with HTML and CSS.
 
- <br>
-
 ## 🔗 Project Mirrors/URL's
 You can access the project through different web-hosting services as mirrors, such as:
 * [CodeSandbox](https://dq2gtf.csb.app/)
 * [Github Pages](https://mariannasato.github.io/projetoInstagram/)
 * [Netifly](https://mariannasatoinstagram.netlify.app/)
-
-<br>
 
  ## 🔨 Tools/languages I used
 This project was developed using the following tools and coding languages: 
@@ -20,7 +16,6 @@ This project was developed using the following tools and coding languages:
 * Git
 * NeoVim
 
-<br>
   <h2> 🖥 Desktop Layout </h2>
   <p>Includes all the functions and layout parts like sidebar, topbar, storybox, etc. Activated with a viewport width over 960 pixels.</p>
     <br>
